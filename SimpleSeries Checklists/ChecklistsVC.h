@@ -10,6 +10,8 @@
 
 @interface ChecklistsVC : UITableViewController
 
+- (IBAction)addItem;
+
 
 
 @end
